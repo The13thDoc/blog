@@ -1,0 +1,89 @@
+/*
+ * Style sheet for index.html
+ */
+
+#nav {
+	position: fixed;
+    height: 200px;
+    width: 100%;
+    z-index: 100;
+}
+
+#nav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+}
+
+#nav ul li { 
+	display: inline; 
+}
+
+#nav ul li a {
+	text-decoration: none;
+	padding: .2em 1em;
+	color: #fff;
+}
+
+#nav ul li a:hover {
+	color: #41AAD5;
+}
+
+#footer-link {
+	font-size: 5px;
+}
+
+
+
+/*
+dark blue: #001b33 // Color of text pad Cobalt theme
+dark lavender: #300a24 // Color of linux Terminal background
+*/
+body {
+	background: #31748f;
+	font-family: 'Ubuntu Mono';
+	color: #ffffff;
+}
+
+body #home {
+	margin: 50px 0px 50px 0px;
+	padding: 20px 0px 20px 0px;
+}
+
+body #writing {
+	margin: 1000px 0px 1000px 0px;
+	padding: 20px 0px 20px 0px;
+}
+
+body #about {
+	margin: 1000px 0px 1000px 0px;
+	padding: 20px 0px 20px 0px;
+}
+
+div #content {
+		position: absolute;
+}
+
+div #side-bar {
+	float: left;
+	width: 20%;
+}
+
+div #body {
+	margin: 20px 0px 0px 0px;
+	font-size: 19px;
+	float: right;
+	width: 80%;
+}
+
+div #footer {
+	font-size: 10px;
+	text-align: center;
+
+}
+
+div #clear {
+	clear: both;
+}
+

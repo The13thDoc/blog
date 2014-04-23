@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	  <title>
+		Jonny's Hysteria
+	  </title>
+	  
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono' rel='stylesheet' type='text/css'>
+		<link rel='stylesheet' href='style.css' type='text/css'>
+	
+	 <div id='nav'>
+	  	<ul id='menu'>
+		  	<li>
+			<a href="#home">Home</a>
+	  		</li>
+	  		<li>
+			<a href="#writing">Writing</a>
+	  		</li>
+	  		<li>
+			<a href="#about">About</a>
+	  		</li>
+	  		<li>
+			<a href="#footer">Footer</a>
+	  		</li>
+	  	</ul>
+	  </div>
+	  
+	</head>
+
+	<body>
+	 
+	 	<div id='content'>
+		<div id='side-bar'>
+		
+		</div>
+
+		<div id='body'>
+		
+			<div id='home'>
+			<h1>Blog</h1>
+			<h3>
+			This is where I spew thoughts of advice, wisdom, rage, and/or insanity.
+			</br>
+			</br>
+			Enjoy.
+			</h3>
+			</div>
+			
+			<div id='writing'>
+			<h1>Writings</h1>
+			
+			Nothing here, yet.
+			</div>
+			
+			<div id='about'>
+			<h1>About</h1>
+			I'm Jon. I like to write. Sometimes I write code, sometimes music, sometimes lyrics. Other times, I simply jot down insane and incoherent thoughts. Read some. They may be inspirational....or encourage thoughts of homicide and a disgust towards humanity.
+			</div>
+			</div>
+	  
+		<div id='clear'></div>
+	  
+		<div id='footer'>
+			<footer>
+				Started: April 24th, 2014
+				</br>
+				Last updated: 04/24/2014
+			</footer>
+		</div>
+	  
+	</body>
+</html>
