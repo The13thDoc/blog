@@ -61,6 +61,15 @@ body #about {
 	padding: 20px 0px 20px 0px;
 }
 
+p {
+  margin-bottom: 1;
+}
+ 
+p + p {
+  text-indent: 1.5em;
+  margin-top: 0;
+}
+
 div #content {
 		position: absolute;
 }

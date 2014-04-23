@@ -31,7 +31,7 @@
 }
 
 #footer-link {
-	font-size: 5px;
+	font-size: 10px;
 }
 
 
@@ -61,6 +61,15 @@ body #about {
 	padding: 20px 0px 20px 0px;
 }
 
+p {
+  margin-bottom: 1;
+}
+ 
+p + p {
+  text-indent: 1.5em;
+  margin-top: 0;
+}
+
 div #content {
 		position: absolute;
 }
@@ -75,6 +84,7 @@ div #body {
 	font-size: 19px;
 	float: right;
 	width: 80%;
+	border-radius:10px 10px 0 0;
 }
 
 div #footer {

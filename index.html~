@@ -19,7 +19,7 @@
 	  		<li>
 			<a href="#about">About</a>
 	  		</li>
-	  		<li>
+	  		<li id='footer-link'>
 			<a href="#footer">Footer</a>
 	  		</li>
 	  	</ul>
@@ -37,19 +37,36 @@
 		<div id='body'>
 		
 			<div id='home'>
+			<p>
 			<h1>Blog</h1>
-			<h3>
+			</p>
+			<p>
 			This is where I spew thoughts of advice, wisdom, rage, and/or insanity.
-			</br>
-			</br>
+			</p>
+			<p>
 			Enjoy.
-			</h3>
+			<p>
+			<h4><a href='#a-harsh-start'>A Harsh Start</a></h4>
+			</p>
+			</p>
 			</div>
 			
 			<div id='writing'>
 			<h1>Writings</h1>
-			
-			Nothing here, yet.
+			<p>
+			<h2 id='a-harsh-start'>
+			A Harsh Start
+			</h2>
+			</p>
+			<p>
+			Facebook, Twitter, Tumblr...so many places to spew fourth one's stupidity and indulge one's narcissism. 
+			</p>
+			<p>
+			In a time when things are so customizeable, they are, still, so restricting. I begin this as many developers, old-school engineers, and anyone else utlizing HTML for communication do, creating my own space to say, "Hello, World." and doing it from scratch...from code, anyway.
+</p>
+<p>
+I began this harshly, with a vague plan as to how to construct a blog appropriately. I'm not especially proud of that, but it's a work in progress from this point on. Caffeine, stress, and the need to focus thoughts on something more productive. Heh.
+			</p>
 			</div>
 			
 			<div id='about'>
