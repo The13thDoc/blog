@@ -45,16 +45,18 @@
 			</p>
 			<p>
 			Enjoy.
-			<p>
-			<h4><a href='#a-harsh-start'>A Harsh Start</a></h4>
-			</p>
+			<a href='#a-harsh-start'>
+			<h4>A Harsh Start</h4>
+			</a>
 			</p>
 			</div>
 			
 			<div id='writing'>
 			<h1>Writings</h1>
+			<div id='a-harsh-start'></div>
+			<h5>April 23rd, 2014</h5>
 			<p>
-			<h2 id='a-harsh-start'>
+			<h2>
 			A Harsh Start
 			</h2>
 			</p>
@@ -79,9 +81,9 @@ I began this harshly, with a vague plan as to how to construct a blog appropriat
 	  
 		<div id='footer'>
 			<footer>
-				Started: April 24th, 2014
+				Started: April 23th, 2014
 				</br>
-				Last updated: 04/24/2014
+				Last updated: 04/23/2014
 			</footer>
 		</div>
 	  
