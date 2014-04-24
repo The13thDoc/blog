@@ -22,12 +22,14 @@ Nav
 */
 #nav {
 	position: fixed;
-	height: 15px;
+	height: 30px;
 	width: 100%;
 	z-index: 100;
 	margin-top: -10px;
 	padding: 5px 0px 7px 0px;
 	background: darkcyan;
+	font-size: larger;
+	font-family: cursive;
 }
 
 #nav ul {
@@ -42,6 +44,9 @@ Nav
 	padding: 20px;
 }
 
+/******************
+Nav Links
+ */
 #footer-link {
 	font-size: 10px;
 }
@@ -89,6 +94,14 @@ Content
 	padding: 10px;
 }
 
+#side-bar {
+	float: left;
+	width: 20%;
+}
+
+/*
+Paragraphs
+*/
 p {
 	margin-bottom: 1;
 }
