@@ -1,6 +1,25 @@
 /*
  * Style sheet for index.html
  */
+html {
+	background: #31748f;
+	color: #ffffff;
+	font-family: 'Ubuntu Mono';
+}
+
+a {
+	text-decoration: none;
+	padding: .2em 1em;
+	color: #71C5E6;
+}
+
+a:hover {
+	color: #41AAD5;
+}
+
+/* 
+Nav
+*/
 #nav {
 	position: fixed;
 	height: 15px;
@@ -19,51 +38,49 @@
 	display: inline;
 }
 
-#nav ul li a {
-	text-decoration: none;
-	padding: .2em 1em;
-	color: #fff;
-}
-
-#nav ul li a:hover {
-	color: #41AAD5;
-}
-
 #footer-link {
 	font-size: 10px;
 }
 
-#content {
-	background: #31748f;
-	overflow: auto;
+/* 
+Body 
+*/
+.container {
+	position: absolute;
+	top: 20px;
 }
 
 /*
-dark blue: #001b33 // Color of text pad Cobalt theme
-dark lavender: #300a24 // Color of linux Terminal background
+Side bar
+*/
+#side-bar {
+	position: fixed;
+	float: left;
+	width: 20%;
+	height: 100%;
+	font-size: 12px;
+	margin: 10px 10px 20px 5px;
+}
+
+#side-bar ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: left;
+}
+
+#side-bar ul li {
+	display: inline;
+}
+
+/*
+Content
 */
 #content-body {
 	float: right;
-	width: 700px;
-	font-family: 'Ubuntu Mono';
-	color: #ffffff;
+	width: 70%;
 	overflow: auto;
-	width: 700px;
-}
-
-#content-body #home {
-	margin: 50px 0px 50px 0px;
-	padding: 20px 0px 20px 0px;
-}
-
-#content-body #writing {
-	margin: 1000px 0px 1000px 0px;
-	padding: 20px 0px 20px 0px;
-}
-
-#content-body #about {
-	margin: 1000px 0px 1000px 0px;
-	padding: 20px 0px 20px 0px;
+	margin: 10px 10px 20px 5px;
 }
 
 p {
@@ -75,29 +92,10 @@ p+p {
 	margin-top: 0;
 }
 
-div #content {
-	position: absolute;
-}
-
-div #side-bar {
-	float: left;
-	width: 20%;
-}
-
-div #content-body {
-	margin: 20px 0px 0px 0px;
-	font-size: 19px;
-	float: right;
-	width: 80%;
-}
-
-div #footer {
+#footer {
 	font-size: 10px;
 	text-align: center;
-}
-
-div #about {
-	visibility: hidden;
+	margin: 10px 10px 20px 5px;
 }
 
 div #clear {
