@@ -1,2 +1,3 @@
-
-window.
+/*
+No code yet
+*/
