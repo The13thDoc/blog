@@ -1,5 +1,6 @@
 ---
 header: header.html
+footer: footer.html
 ---
 <!doctype html>
 <html>
@@ -58,21 +59,7 @@ header: header.html
 					<a href='#about-jonny'>About Jonny...</a>
 
 					<div id='a-harsh-start'>
-						<h5>April 23rd, 2014</h5>
-						<p>
-						<h2>A Harsh Start</h2>
-						</p>
-						<p>Facebook, Twitter, Tumblr...so many places to spew fourth
-							one's stupidity and indulge one's narcissism.</p>
-						<p>In a time when things are so customizeable, they are,
-							still, so restricting. I begin this as many developers,
-							old-school engineers, and anyone else utlizing HTML for
-							communication do, creating my own space to say, "Hello, World."
-							and doing it from scratch...from code, anyway.
-						<p>I began this harshly, with a vague plan as to how to
-							construct a blog appropriately. I'm not especially proud of that,
-							but it's a work in progress from this point on. Caffeine, stress,
-							and the need to focus thoughts on something more productive. Heh.</p>
+						{% include 2014-04-23-a-harsh-start.md %}
 					</div>
 					<div id='about-jonny'>
 						<p>
@@ -94,11 +81,7 @@ header: header.html
 		<div id='clear'></div>
 
 		<!-- Footer -->
-		<div id='footer'>
-			<footer>
-				Started: April 23th, 2014 </br> Last updated: {% date %}
-			</footer>
-		</div>
+		{% include footer %}
 	</div>
 
 </body>
