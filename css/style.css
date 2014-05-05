@@ -103,6 +103,7 @@ Content
 Paragraphs
 */
 p {
+	text-indent: 1.5em;
 	margin-bottom: 1;
 }
 
