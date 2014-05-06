@@ -22,12 +22,11 @@ sidebar: sidebar.html
 	<div class='container'>
 		{% include {{page.sidebar}} %}
 		{{content}}
+		
+		<!-- Break -->
+		<div id='clear'></div>
+		{% include {{page.footer}} %}
+		
 	</div>
-
-	<!-- Break -->
-	<div id='clear'></div>
-
-	{% include {{page.footer}} %}
-
 </body>
 </html>

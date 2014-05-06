@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Jonny's Hysteria
+---
+<div id='jonnys-hysteria'>
+	<h1>Jonny's Hysteria</h1>
+	
+	<ul>
+	{% for post in site.posts %}
+		<li><span>{{ post.date | date_to_string }}</span> |<a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+	</ul>
+
+	<h3>About Jonny</h3>
+	
+	<p>I'm Jon. I like to write. Sometimes I write code, sometimes
+		music, sometimes lyrics. Other times, I simply jot down insane and
+		incoherent thoughts. This is where I spew thoughts of advice,
+		wisdom, rage, and/or insanity. Read some. They may be
+		inspirational....or encourage thoughts of homicide and a disgust
+		towards humanity.</p>
+	<!-- <a href='/writings.html'>Back to writings...</a> -->
+
+</div>
