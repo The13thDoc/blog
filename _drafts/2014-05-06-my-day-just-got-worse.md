@@ -1,14 +1,14 @@
 ---
 layout: jonnys-hysteria-layout
-title: My Day Just Got Worse
+title: Subject: My Day Just Got Worse
 ---
 #####May 6th, 2014
 
-##Subject: My Day Just Got Worse
+##{{ page.title }}
 
 My dad just talked to me.
 
-He has been striving to visit April numerous times, while a restraining order is in effect until December 22nd 2014. 
+He has been striving to visit April numerous times, while a restraining order is in effect until December 22nd 2014.
 
 How _fucking_ absurd is that? __Don't you dare mention this to April, Ruth, Dean, or Margaret.__
 
@@ -16,7 +16,7 @@ I can't believe that people go to such great lengths to do things after given su
 
 I felt bullied by you this morning. I apologize that I can't progress forward any more quickly than I am, but I am doing my best each day to continue writing software, creating a blog to put my writing, poetry, and compositions onto, contacting employers and finding a _correct fit_ of a job, and _trying_ to keep healthy with food stamps that _my tax money_ paid for with the $16.5+ hourly salary I _earned_ over the last few years.
 
-...and I'm criticized for having a bottle of alcohol. 
+...and I'm criticized for having a bottle of alcohol.
 
 If you are having struggles and feeling upset, I completely understand that and empathize with you. If you _really_ feel against me being in this household, then kick me out. I will live on the street and try to find a job, as a tried to do in my car when my attempt at an _honest_ relationship forced me to do it.
 

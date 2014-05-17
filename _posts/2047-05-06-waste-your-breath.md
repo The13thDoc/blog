@@ -4,10 +4,10 @@ title: Waste Your Breath
 ---
 #####May 6th, 2014
 
-##Waste Your Breath
+##{{ page.title }}
 
 Oh so simply undeserving. Oh so simply disconcerting.
-Oh wickedly complementing. Try your best not to forgive me.
+Oh so wickedly complementing. Try your best not to forgive me.
 
 Kindness, empathy, and the like. Oh so tender and contrite.
 Who would’ve known the other side breeds life to something so un-right.
