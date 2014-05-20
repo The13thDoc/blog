@@ -2,7 +2,7 @@
 layout: jonnys-hysteria-layout
 title: Adverse
 ---
-#####May 17th, 2014
+#####DATE
 
 ##{{ page.title }}
 
@@ -24,7 +24,7 @@ God...
 I want to scream...at...God.
 
 I’m just a little bit pissed and just a little concerned that my words are being taken as far-fetched and absurd. Sure, I could pray. I could sit quietly and wait, but years of that have left me hollow and numb.
-I want to walk up to the gate. I want to scream in his face. I want him to hear all my fucking hate. Cast me. Damn me. Negate my existence. Come on you fucker, give me your strongest resistance. Marching and storming without a single soul; so I can scream in your ear, these condemning words!
+I want to walk up to the gate. I want to scream in his face. I want him to hear all my fucking hate. Cast me. Damn me. Negate my existence. Come on you fucker, give me your strongest resistance. Marching and storming without a single soul, so I can scream in your ear, these condemning words!
 
 So, I ask you...
 
@@ -34,3 +34,8 @@ They reign. They rule. They offer us a wonderful life that they claim is just. I
 
 So, I ask you again, God of mine, as I suffer in sin. Your ego fuck is of my own accord. I'm shoving us down to lay upon this sword. I see now not the error of my ways. From your image, projected, I have been made. So let us fail and let us fall, until you, myself, shall right each of these wrongs.
 
+God...
+Where is God?
+
+God...
+I want to scream...at...God.
