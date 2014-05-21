@@ -17,7 +17,7 @@ a:hover {
 	color: #41AAD5;
 }
 
-/* 
+/*
 Nav
 */
 #nav {
@@ -44,8 +44,8 @@ Nav
 	padding: 20px;
 }
 
-/* 
-Body 
+/*
+Body
 */
 .container {
 	position: absolute;
@@ -56,7 +56,7 @@ Body
 Side bar
 */
 .menu {
-	
+
 }
 .menu::before{
 	data-icon: "☰";
@@ -91,6 +91,14 @@ Side bar
 #side-bar ol li {
 	float: left;
 	list-style-type: upper-roman;
+}
+
+.tiny {
+	font-size: x-small;
+}
+
+.small {
+	font-size: small;
 }
 
 /*

@@ -11,7 +11,7 @@ sidebar: sidebar.html
 <meta name='author' content='Jon Henrich' />
 <link href='https://fonts.googleapis.com/css?family=Ubuntu+Mono'
 	rel='stylesheet' type='text/css'>
-<link rel='stylesheet' href='/css/style.css' type='text/css'>
+<link rel='stylesheet' href='{{ site.baseurl }}/css/style.css' type='text/css'>
 
 </head>
 
@@ -22,11 +22,11 @@ sidebar: sidebar.html
 	<div class='container'>
 		{% include {{page.sidebar}} %}
 		{{content}}
-		
+
 		<!-- Break -->
 		<div id='clear'></div>
 		{% include {{page.footer}} %}
-		
+
 	</div>
 </body>
 </html>
