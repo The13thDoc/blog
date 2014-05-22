@@ -90,7 +90,6 @@ Side bar
 
 #side-bar ol li {
 	float: left;
-	list-style-type: upper-roman;
 }
 
 .tiny {
@@ -140,4 +139,15 @@ p+p {
 
 div #clear {
 	clear: both;
+}
+
+/*
+Jonny's Hysteria
+*/
+#jonnys-list {
+	list-style-type: upper-roman;
+}
+
+.upper-roman {
+	
 }

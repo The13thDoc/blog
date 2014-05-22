@@ -6,11 +6,13 @@
 	<ul>
 	{% for post in site.posts %}
 		<li>
-		<span class='tiny'>{{ post.date | date_to_string }}</span>
+		<span class='tiny'>{{ post.date | date: "%B %-d, %Y" }}</span>
 		<a class='small' href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 		</li>
 		
 		<br>
 	{% endfor %}
 	</ul>
+	
+	<a href='{{ site.baseurl }}/the-docs-thoughts.html'><h3>The Doc's Thoughts</h3></a>
 </div>
