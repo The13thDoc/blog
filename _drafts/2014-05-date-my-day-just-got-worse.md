@@ -4,7 +4,7 @@ title: Letter of Hysterical Discontent
 ---
 #####DATE
 
-##{{ page.title }}**
+##{{ page.title }}
 
 **Subject: My Day Just Got Worse**
 **Date: 5/6/2014**
