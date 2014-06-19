@@ -11,7 +11,7 @@ The following directories and their contents are Copyright Jon Henrich. You may 
 * _drafts/
 
 
-Feel free to use any code (HTML, CSS, etc.) for learning, reuse, or reference purposes. After all, this is still open source and meant to be shared to some extent.
+All other directories and files are MIT Licensed. Feel free to use any code (HTML, CSS, etc.) for learning, reuse, or reference purposes. After all, this is still open source and meant to be shared to some extent.
 
 
 http://the13thdoc.github.io/blog
