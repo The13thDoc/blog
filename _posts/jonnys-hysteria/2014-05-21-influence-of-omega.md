@@ -11,7 +11,7 @@ Such brutal and malignant intent of such people...coming vicariously...from thei
 
 You slut. You whore. You undead beast.
 
-My frequent recollection of power nearly unceased. I put myself into such tribulation and pride myself on leaping into harm. My feat: undefined, unsecure, unrealistic. My reality often similar in ways I couldn’t have grasped it. I make it out. I make the twist, the turn of events that that my foes must detest. Sometimes I fail. I fall. I falter. I may laugh at obscurity and stand idly by as I die. The end. The omega. The story stops there. Again, how wrong am I, when I awake once again?
+My frequent recollection of power nearly unceased. I put myself into such tribulation and pride myself on leaping into harm. My feat: undefined, unsecure, unrealistic. My reality often similar in ways I couldn’t have grasped it. I make it out. I make the twist, the turn of events that my foes must detest. Sometimes I fail. I fall. I falter. I may laugh at obscurity and stand idly by as I die. The end. The omega. The story stops there. Again, how wrong am I, when I awake once again?
 
 The next fate that can unrealistically occur. The next parable venting itself from within my subconscious. God damn, they keep going. Only so often is there relief. That one dream, sometimes lasting, of nirvana and serenity with the woman I love, whomever she may be. Security, happiness, purity, tolerance, imperfection, disruption, mutual acceptance! My dream is not perfect, by no means at all. It is sometimes a brief reminder of why I stand tall...as tall as I can...in wait, for her, whenever she is. Whether time will be relevant, has been, or is. Someday she’ll arrive, I’m sure without my knowing.
 
