@@ -5,16 +5,32 @@
 
 	<a href='{{ site.baseurl }}/jonnys-hysteria.html'><h3>Jonny's Hysteria</h3></a>
 	<ul>
-	{% for post in site.posts %}
-		<li>
+		<!-- <li>
 		<span class='tiny'>{{ post.date | date: "%B %-d, %Y" }}</span>
 		<a class='small' href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-		</li>
-
+		</li> -->
+		<span class='tiny'>{{ '2014/05/21' | date: "%B %-d, %Y" }}</span>
+		<li><a class='small' href='{{ site.baseurl }}/2014/05/21/influence-of-omega.html'>Influence of Omega</a></li>
 		<br>
-	{% endfor %}
+		<span class='tiny'>{{ '2014/05/17' | date: "%B %-d, %Y" }}</span>
+		<li><a class='small' href='{{ site.baseurl }}/2014/05/17/had-to-see-about-a-girl.html'>Had to See About a Girl</a></li>
+		<br>
+		<span class='tiny'>{{ '2014/05/06' | date: "%B %-d, %Y" }}</span>
+		<li><a class='small' href='{{ site.baseurl }}/2014/05/06/waste-your-breath.html'>Wate Your Breath</a></li>
+		<br>
+		<span class='tiny'>{{ '2014/04/23' | date: "%B %-d, %Y" }}</span>
+		<li><a class='small' href='{{ site.baseurl }}/2014/04/23/a-harsh-start.html'>A Harsh Start</a></li>
+		<br>
 	</ul>
+
+
 	<a href='{{ site.baseurl }}/the-docs-thoughts.html'><h3>The Doc's Thoughts</h3></a>
+	<ul>
+		<span class='tiny'>{{ '2014/07/28' | date: "%B %-d, %Y" }}</span>
+		<li><a class='small' href='{{ site.baseurl }}/2014/07/28/the-onus-is-never-encumbrance.html'>The Onus is Never Encumbrance</a></li>
+		<br>
+	</ul>
+
 	<br />
 	<br />
 </div>

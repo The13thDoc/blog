@@ -112,12 +112,12 @@ Content
 /*
 Paragraphs
 */
-p {
+.p-start {
 	text-indent: 1.5em;
 	margin-bottom: 1;
 }
 
-p+p {
+.p-following {
 	text-indent: 1.5em;
 	margin-top: 0;
 }

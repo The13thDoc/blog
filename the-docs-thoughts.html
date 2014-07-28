@@ -6,9 +6,14 @@ title: The Doc's Thoughts
 	<h1>{{ page.title }}</h1>
 
 	<ul id='docs-list' class='upper-roman'>
-		{% for post in {{site.posts}} reversed %}
-			<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-		{% endfor %}
+		<!-- http://0.0.0.0:4000/2014/04/23/a-harsh-start.html -->
+		<!-- '{{ site.baseurl }}/year/month/day/title.html' -->
+
+		<!-- Not sure how to filter based on directories yet.
+	  	Going to specify the articles directly. -->
+		<li><a href='{{ site.baseurl }}/2014/07/28/the-onus-is-never-encumbrance.html'>The Onus is Never Encumbrance</a></li>
 	</ul>
+
+	<a href='{{ site.baseurl }}/writings.html'>Back to writings...</a>
 
 </div>
