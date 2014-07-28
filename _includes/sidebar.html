@@ -1,7 +1,8 @@
 <!-- Side bar -->
 <div id='side-bar'>
 	<a class='menu'></a>
-	<h2>Writings</h2>
+	<a href='{{ site.baseurl }}/writings.html'><h2>Writings</h2></a>
+
 	<a href='{{ site.baseurl }}/jonnys-hysteria.html'><h3>Jonny's Hysteria</h3></a>
 	<ul>
 	{% for post in site.posts %}
@@ -9,11 +10,11 @@
 		<span class='tiny'>{{ post.date | date: "%B %-d, %Y" }}</span>
 		<a class='small' href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 		</li>
-		
+
 		<br>
 	{% endfor %}
 	</ul>
+	<a href='{{ site.baseurl }}/the-docs-thoughts.html'><h3>The Doc's Thoughts</h3></a>
 	<br />
 	<br />
-<a href="https://www.resetthenet.org/" target="_blank"><img width='150px' src='https://www.resetthenet.org/images/square-take-back.png' alt='Reset the Net' /></a>
 </div>

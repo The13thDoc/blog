@@ -4,11 +4,11 @@ title: The Doc's Thoughts
 ---
 <div id='the-docs-thoughts'>
 	<h1>{{ page.title }}</h1>
-	
+
 	<ul id='docs-list' class='upper-roman'>
-	{% for post in {{ page.posts }} reversed %}
-		<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-	{% endfor %}
+		{% for post in {{site.posts}} reversed %}
+			<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
 	</ul>
 
 </div>
