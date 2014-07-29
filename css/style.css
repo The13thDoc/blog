@@ -30,7 +30,6 @@ Nav
 	background: darkcyan;
 	font-size: x-large;
 	font-weight: 700;
-	/*font-family: cursive;*/
 }
 
 #nav ul {
@@ -61,7 +60,6 @@ Side bar
 
 #side-bar {
 	position: absolute;
-	z-index: 0;
 	float: left;
 	height: 100%;
 	font-size: medium;
