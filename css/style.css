@@ -112,15 +112,15 @@ Content
 /*
 Paragraphs
 */
-.p-start {
+.p {
 	text-indent: 1.5em;
-	margin-bottom: 1;
+	/*margin-bottom: 1;*/
 }
-
+/*
 .p-following {
 	text-indent: 1.5em;
 	margin-top: 0;
-}
+}*/
 
 #footer {
 	font-size: x-small;
