@@ -28,8 +28,9 @@ Nav
 	margin-top: -10px;
 	padding: 5px 0px 7px 0px;
 	background: darkcyan;
-	font-size: larger;
-	font-family: cursive;
+	font-size: x-large;
+	font-weight: 700;
+	/*font-family: cursive;*/
 }
 
 #nav ul {
@@ -51,8 +52,7 @@ Nav
 Body
 */
 .container {
-	top: 25px;
-	z-index: 0;
+	position: relative;
 }
 
 /*
