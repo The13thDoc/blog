@@ -20,7 +20,7 @@ a:hover {
 /*
 Nav
 */
-#nav {
+div.nav {
 	position: fixed;
 	height: 30px;
 	width: 100%;
@@ -30,19 +30,16 @@ Nav
 	background: darkcyan;
 	font-size: x-large;
 	font-weight: 700;
+	list-style-type: none;
 }
 
-#nav ul {
+div.nav ul {
 	margin: 0;
 	padding: 0;
 	text-align: center;
 }
 
-.no-list-style {
-	list-style-type: none;
-}
-
-#nav ul li {
+div.nav ul li {
 	display: inline;
 	padding: 20px;
 }
@@ -58,7 +55,7 @@ Body
 Side bar
 */
 
-#side-bar {
+div.side-bar {
 	visibility: hidden;
 	position: absolute;
 	float: left;
@@ -67,25 +64,15 @@ Side bar
 	margin: 10px 0px 20px 0px;
 }
 
-#side-bar ul {
+div.side-bar ul {
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
 	text-align: left;
 }
 
-#side-bar ul li {
+div.side-bar ul li {
 	display: inline;
-}
-
-#side-bar ol {
-	margin: 0;
-	padding: 0;
-	list-style-type: upper-roman;
-}
-
-#side-bar ol li {
-	float: left;
 }
 
 .tiny {
@@ -99,7 +86,7 @@ Side bar
 /*
 Content
 */
-#content {
+.content {
 	float: right;
 	width: 70%;
 	background: #31748f;
@@ -113,27 +100,25 @@ Paragraphs
 */
 .p {
 	text-indent: 1.5em;
-	/*margin-bottom: 1;*/
 }
-/*
-.p-following {
-	text-indent: 1.5em;
-	margin-top: 0;
-}*/
 
-#footer {
+/*
+Others
+*/
+.upper-roman {
+	list-style-type: upper-roman;
+}
+
+.no-list-style {
+	list-style-type: none;
+}
+
+.footer {
 	font-size: x-small;
 	text-align: center;
 	margin: 10px 10px 20px 5px;
 }
 
-div #clear {
+.clear {
 	clear: both;
-}
-
-/*
-Jonny's Hysteria
-*/
-#jonnys-list {
-	list-style-type: upper-roman;
 }
