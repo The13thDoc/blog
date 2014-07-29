@@ -59,6 +59,7 @@ Side bar
 */
 
 #side-bar {
+	visibility: hidden;
 	position: absolute;
 	float: left;
 	height: 100%;
