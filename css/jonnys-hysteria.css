@@ -1,9 +1,6 @@
 /*
-Custom styling for Jonny's Hysteria
-
-background: #677B85;
-color: #440808;
-*/
+ * Custom styling for Jonny's Hysteria
+ */
 html {
   background: #911D1D;
   color: #FFFFFF;
@@ -19,4 +16,8 @@ a:hover {
 
 div.nav {
   background: #7A1A1A;
+}
+
+.docs-props {
+  visibility: hidden;
 }

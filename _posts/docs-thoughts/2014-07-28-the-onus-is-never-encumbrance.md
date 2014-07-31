@@ -1,5 +1,5 @@
 ---
-layout: the-docs-thoughts-layout
+layout: the-docs-thoughts-content
 title: The Onus is Never Encumbrance
 ---
 #####July 28th, 2014
