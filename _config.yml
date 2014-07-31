@@ -1,2 +1,5 @@
-markdown: redcarpet
-baseurl: "/blog"
+highlighter: true
+github: [Repository metadata]
+markdown: kramdown
+safe: true
+lsi: false
