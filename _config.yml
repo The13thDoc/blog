@@ -1,5 +1,6 @@
 highlighter: true
 github: [Repository metadata]
 markdown: kramdown
+baseurl: "/blog"
 safe: true
 lsi: false
