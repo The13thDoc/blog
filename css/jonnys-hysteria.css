@@ -1,0 +1,18 @@
+/*
+Custom styling for Jonny's Hysteria
+
+background: #677B85;
+color: #440808;
+*/
+html {
+  background: #31748f;
+  color: #ffffff;
+}
+
+div.nav {
+  background: darkcyan;
+}
+
+.content {
+  /*background: #31748f;*/
+}
