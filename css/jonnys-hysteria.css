@@ -5,14 +5,18 @@ background: #677B85;
 color: #440808;
 */
 html {
-  background: #31748f;
-  color: #ffffff;
+  background: #911D1D;
+  color: #FFFFFF;
+}
+
+a {
+  color: #F01717;
+}
+
+a:hover {
+  color: #DA1616;
 }
 
 div.nav {
-  background: darkcyan;
-}
-
-.content {
-  /*background: #31748f;*/
+  background: #7A1A1A;
 }

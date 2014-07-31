@@ -1,5 +1,5 @@
 ---
-layout: jonnys-hysteria-layout
+layout: jonnys-hysteria-content
 title: Had to See About a Girl
 ---
 #####May 17th, 2014

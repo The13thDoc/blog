@@ -1,5 +1,5 @@
 ---
-layout: jonnys-hysteria-layout
+layout: jonnys-hysteria-content
 title: A Harsh Start
 ---
 #####April 23rd, 2014

@@ -1,5 +1,5 @@
 ---
-layout: jonnys-hysteria-layout
+layout: jonnys-hysteria-content
 title: Waste Your Breath
 ---
 #####May 6th, 2014
@@ -42,4 +42,3 @@ Exhale. Inhale. One more time.
 
 Exhale. Inhale. One more try.
 Exhale. Inhale. Hold your breath...
-

@@ -1,5 +1,5 @@
 ---
-layout: jonnys-hysteria-layout
+layout: jonnys-hysteria-content
 title: Influence of Omega
 ---
 #####May 21st, 2014
