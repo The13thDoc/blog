@@ -19,5 +19,5 @@ div.nav {
 }
 
 .docs-props {
-  visibility: hidden;
+  display: none;
 }
