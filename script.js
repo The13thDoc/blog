@@ -25,3 +25,51 @@ window.setInterval(function() {
       document.getElementById('side-bar').style.visibility = 'visible';
     }
 }, 200);
+
+/*
+ * Set onLoad()
+ */
+window.onload = function () {
+  var menu = document.getElementById('writing-list');
+  menu.addEventListener('click', function() {
+    var div = document.getElementById('side-bar-children');
+    var attribute = div.style.display;
+
+    if (attribute === 'none') {
+      attribute = '';
+    } else {
+      attribute = 'none';
+    }
+    div.style.display = attribute;
+  }, false);
+
+  // var jonnysSideBar = document.getElementById('jonny-list');
+  // jonnysSideBar.addEventListener('click', function() {
+  //   var div = document.getElementById('jonnys-side-bar-children');
+  //   var attribute = div.style.display;
+  //
+  //   if (attribute === 'none') {
+  //     attribute = '';
+  //     console.log('show '+div.id);
+  //   } else {
+  //     attribute = 'none';
+  //     console.log('hide '+div.id);
+  //   }
+  //   div.style.display = attribute;
+  // }, false);
+  //
+  // var docsSideBar = document.getElementById('docs-list');
+  // docsSideBar.addEventListener('click', function() {
+  //   var div = document.getElementById('docs-side-bar-children');
+  //   var attribute = div.style.display;
+  //
+  //   if (attribute === 'none') {
+  //     attribute = '';
+  //     console.log('show '+div.id);
+  //   } else {
+  //     attribute = 'none';
+  //     console.log('hide '+div.id);
+  //   }
+  //   div.style.display = attribute;
+  // }, false);
+}

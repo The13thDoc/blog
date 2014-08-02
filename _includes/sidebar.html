@@ -1,38 +1,62 @@
 <!-- Side bar -->
 <div id='side-bar' class='side-bar'>
-	<a class='menu'></a>
-	<a href='{{ site.baseurl }}/writings.html'><h2>Writings</h2></a>
+	<div id='writing-list'><h3>&lt&lt Menu</h3></div>
 
-	<div id='jonnys-hysteria-side-bar' class='jonnys-props'>
-		<a href='{{ site.baseurl }}/jonnys-hysteria.html'><h3>Jonny's Hysteria</h3></a>
-		<ul>
-			<!-- <li>
-			<span class='tiny'>{{ post.date | date: "%B %-d, %Y" }}</span>
-			<a class='small' href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-			</li> -->
-			<span class='tiny'>{{ '2014/05/21' | date: "%B %-d, %Y" }}</span>
-			<li><a class='small' href='{{ site.baseurl }}/jonnys-hysteria/2014/05/21/influence-of-omega.html'>Influence of Omega</a></li>
-			<br>
-			<span class='tiny'>{{ '2014/05/17' | date: "%B %-d, %Y" }}</span>
-			<li><a class='small' href='{{ site.baseurl }}/jonnys-hysteria/2014/05/17/had-to-see-about-a-girl.html'>Had to See About a Girl</a></li>
-			<br>
-			<span class='tiny'>{{ '2014/05/06' | date: "%B %-d, %Y" }}</span>
-			<li><a class='small' href='{{ site.baseurl }}/jonnys-hysteria/2014/05/06/waste-your-breath.html'>Wate Your Breath</a></li>
-			<br>
-			<span class='tiny'>{{ '2014/04/23' | date: "%B %-d, %Y" }}</span>
-			<li><a class='small' href='{{ site.baseurl }}/jonnys-hysteria/2014/04/23/a-harsh-start.html'>A Harsh Start</a></li>
-			<br>
-		</ul>
+	<div id='side-bar-children'>
+		<h2>
+			<a href='{{ site.baseurl }}/writings.html'>Writings</a>
+		</h2>
+
+		<div id='jonnys-hysteria-side-bar' class='jonnys-props'>
+
+			<h3 id='jonnys-side-header'>
+				<a href='{{ site.baseurl }}/jonnys-hysteria.html' class='unspaced-link'>
+					Jonny's Hysteria
+				</a>
+				<!-- <div id='jonny-list' class='tiny'>(works)</div> -->
+			</h3>
+
+			<div id='jonnys-side-bar-children'>
+				<ul>
+					<!-- <li>
+					<span class='tiny'>{{ post.date | date: "%B %-d, %Y" }}</span>
+					<a class='small' href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+					</li> -->
+					<span class='tiny'>{{ '2014/05/21' | date: "%B %-d, %Y" }}</span>
+					<li><a class='small' href='{{ site.baseurl }}/jonnys-hysteria/2014/05/21/influence-of-omega.html'>Influence of Omega</a></li>
+					<br>
+					<span class='tiny'>{{ '2014/05/17' | date: "%B %-d, %Y" }}</span>
+					<li><a class='small' href='{{ site.baseurl }}/jonnys-hysteria/2014/05/17/had-to-see-about-a-girl.html'>Had to See About a Girl</a></li>
+					<br>
+					<span class='tiny'>{{ '2014/05/06' | date: "%B %-d, %Y" }}</span>
+					<li><a class='small' href='{{ site.baseurl }}/jonnys-hysteria/2014/05/06/waste-your-breath.html'>Wate Your Breath</a></li>
+					<br>
+					<span class='tiny'>{{ '2014/04/23' | date: "%B %-d, %Y" }}</span>
+					<li><a class='small' href='{{ site.baseurl }}/jonnys-hysteria/2014/04/23/a-harsh-start.html'>A Harsh Start</a></li>
+					<br>
+				</ul>
+			</div>
+		</div>
+
+		<div id='the-docs-thoughts-side-bar' class='docs-props'>
+
+		<h3 id='docs-side-header'>
+			<a href='{{ site.baseurl }}/the-docs-thoughts.html' class='unspaced-link'>
+				The Doc's Thoughts
+			</a>
+			<!-- <div id='docs-list' class='tiny'>(works)</div> -->
+		</h3>
+
+		<div id='docs-side-bar-children'>
+			<ul>
+				<span class='tiny'>{{ '2014/07/28' | date: "%B %-d, %Y" }}</span>
+				<li><a class='small' href='{{ site.baseurl }}/docs-thoughts/2014/07/28/the-onus-is-never-encumbrance.html'>The Onus is Never Encumbrance</a></li>
+				<br>
+			</ul>
+		</div>
+		</div>
+		<br />
+		<br />
 	</div>
 
-	<div id='the-docs-thoughts-side-bar' class='docs-props'>
-		<a href='{{ site.baseurl }}/the-docs-thoughts.html'><h3>The Doc's Thoughts</h3></a>
-		<ul>
-			<span class='tiny'>{{ '2014/07/28' | date: "%B %-d, %Y" }}</span>
-			<li><a class='small' href='{{ site.baseurl }}/docs-thoughts/2014/07/28/the-onus-is-never-encumbrance.html'>The Onus is Never Encumbrance</a></li>
-			<br>
-		</ul>
-	</div>
-	<br />
-	<br />
 </div>

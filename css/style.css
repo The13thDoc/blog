@@ -17,6 +17,10 @@ a:hover {
 	color: #41AAD5;
 }
 
+.unspaced-link {
+	padding: 0;
+}
+
 /*
 Nav
 */
