@@ -2,3 +2,7 @@
 .jonnys-props {
   display: none;
 }
+
+.quote:hover {
+  background: darkcyan;
+}
