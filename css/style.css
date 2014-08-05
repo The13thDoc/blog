@@ -125,3 +125,13 @@ Others
 .clear {
 	clear: both;
 }
+
+
+div.quote-list-side {
+	display: none;
+	visibility: hidden;
+}
+
+li.quote-list-side {
+	font-size: x-small;
+}

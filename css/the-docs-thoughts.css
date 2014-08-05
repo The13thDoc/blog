@@ -3,6 +3,14 @@
   display: none;
 }
 
+.quote {
+  padding: 15px;
+}
+
 .quote:hover {
-  background: darkcyan;
+  background-color: darkcyan;
+}
+
+.quote:target {
+   background-color: darkslateblue;
 }

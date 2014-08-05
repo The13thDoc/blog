@@ -43,6 +43,28 @@ window.onload = function () {
     div.style.display = attribute;
   }, false);
 
+  // quote-list-side
+
+  var quoteList = document.getElementById('toggle-quotes');
+  quoteList.addEventListener('click', function() {
+    var div = document.getElementById('quote-list-side');
+    var display = div.style.display;
+    var visibility = div.style.visibility;
+    console.log(display);
+
+    if (display === 'none') {
+      display = '';
+      visibility = 'visible';
+      console.log('show '+div.id);
+    } else {
+      display = 'none';
+      visibility = 'hidden';
+      console.log('hide '+div.id);
+    }
+    div.style.display = display;
+  }, false);
+
+
   // var jonnysSideBar = document.getElementById('jonny-list');
   // jonnysSideBar.addEventListener('click', function() {
   //   var div = document.getElementById('jonnys-side-bar-children');
