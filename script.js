@@ -30,18 +30,18 @@ window.setInterval(function() {
  * Set onLoad()
  */
 window.onload = function () {
-  var menu = document.getElementById('writing-list');
-  menu.addEventListener('click', function() {
-    var div = document.getElementById('side-bar-children');
-    var attribute = div.style.display;
-
-    if (attribute === 'none') {
-      attribute = '';
-    } else {
-      attribute = 'none';
-    }
-    div.style.display = attribute;
-  }, false);
+  // var menu = document.getElementById('writing-list');
+  // menu.addEventListener('click', function() {
+  //   var div = document.getElementById('side-bar-children');
+  //   var attribute = div.style.display;
+  //
+  //   if (attribute === 'none') {
+  //     attribute = '';
+  //   } else {
+  //     attribute = 'none';
+  //   }
+  //   div.style.display = attribute;
+  // }, false);
 
   // quote-list-side
 
