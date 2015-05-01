@@ -105,6 +105,10 @@ Paragraphs
 	text-indent: 1.5em;
 }
 
+.p-no-indent {
+	text-indent: 0em;
+}
+
 /*
 Others
 */
