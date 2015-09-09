@@ -1,4 +1,4 @@
-highlighter: true
+highlighter: pygments
 github: [Repository metadata]
 markdown: kramdown
 baseurl: "/blog"
