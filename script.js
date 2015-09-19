@@ -18,13 +18,13 @@ function collision($div1, $div2) {
   return true;
 }
 
-window.setInterval(function() {
-    if( collision($('#side-bar'), $('#content'))) {
-      document.getElementById('side-bar').style.visibility = 'hidden';
-    } else {
-      document.getElementById('side-bar').style.visibility = 'visible';
-    }
-}, 200);
+// window.setInterval(function() {
+//     if( collision($('#side-bar'), $('#content'))) {
+//       document.getElementById('side-bar').style.visibility = 'hidden';
+//     } else {
+//       document.getElementById('side-bar').style.visibility = 'visible';
+//     }
+// }, 200);
 
 /*
  * Set onLoad()

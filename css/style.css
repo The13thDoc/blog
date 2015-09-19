@@ -91,8 +91,8 @@ div.side-bar ul li {
 Content
 */
 .content {
-	float: right;
-	width: 70%;
+	/*float: right;*/
+	/*width: 70%;*/
 	margin: 10px 10px 20px 0px;
 	font-size: larger;
 	padding: 10px 10px 10px 0px;
@@ -142,4 +142,8 @@ div.quote-list-side {
 
 li.quote-list-side {
 	font-size: x-small;
+}
+
+@media (min-width: 600px) {
+
 }
