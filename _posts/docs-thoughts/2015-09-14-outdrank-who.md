@@ -1,6 +1,7 @@
 ---
 layout: the-docs-thoughts-content
 title: Outdrank Who?
+page.title: title
 ---
 #####September 14th, 2015
 

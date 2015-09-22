@@ -1,6 +1,7 @@
 ---
 layout: jonnys-hysteria-content
 title: Influence of Omega
+page.title: title
 ---
 #####May 21st, 2014
 

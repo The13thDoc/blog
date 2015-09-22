@@ -1,6 +1,7 @@
 ---
 layout: jonnys-hysteria-content
 title: Perpetual Perplexity
+page.title: title
 ---
 #####January 21st, 2015
 

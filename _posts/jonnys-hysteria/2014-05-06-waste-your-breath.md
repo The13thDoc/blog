@@ -1,6 +1,7 @@
 ---
 layout: jonnys-hysteria-content
 title: Waste Your Breath
+page.title: title
 ---
 #####May 6th, 2014
 

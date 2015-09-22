@@ -1,6 +1,7 @@
 ---
 layout: jonnys-hysteria-content
 title: Had to See About a Girl
+page.title: title
 ---
 #####May 17th, 2014
 
