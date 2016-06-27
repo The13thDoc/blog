@@ -1,7 +1,5 @@
 ---
-header: header.html
-footer: footer.html
-sidebar: sidebar.html
+
 ---
 <!doctype html>
 <html>
@@ -18,16 +16,16 @@ sidebar: sidebar.html
 </head>
 
 <body>
-	{% include {{page.header}} %}
+	{% include header.html %}
 
 	<!-- Content-->
 	<div class='container'>
-		{% include {{page.sidebar}} %}
+		{% include sidebar.html %}
 		{{content}}
 
 		<!-- Break -->
 		<div class='clear'></div>
-		{% include {{page.footer}} %}
+		{% include footer.html %}
 
 	</div>
 </body>
